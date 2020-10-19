@@ -12,4 +12,4 @@ Follow the instructions. Input the first number, then the operator symbol, then 
 | -        | subtraction    |
 | *        | multiplication |
 | /        | division       |
-| ^        | power          |
+| ^        | exponent       |
