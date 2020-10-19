@@ -1,4 +1,4 @@
-// A STL based C++ program to sort a nearly sorted array. 
+ 
 #include <bits/stdc++.h> 
 using namespace std; 
    
